@@ -1,8 +1,22 @@
 body {
 	background-color: black;
+	margin: 60px;
 }
 
 p {
-	font-size: large;
-	color: cyan;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 72px;
+	/* Smaller font size for the paragraph */
+	color: rgb(255, 255, 255);
+}
+
+.gradient-text {
+	background: linear-gradient(90deg, #b90239, #d8b806);
+	/* Gradient colors */
+	-webkit-background-clip: text;
+	/* Clip background to text */
+	-webkit-text-fill-color: transparent;
+	/* Make text transparent */
+	font-size: 144px;
+	/* Larger font size for the name */
 }

@@ -51,6 +51,10 @@
       grid-template-columns: 6rem 1fr;
       width: 100%;
       gap: 2rem;
+      @media (max-width: 600px) {
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+      }
 
       span#type {
         color: var(--color-text-secondary);

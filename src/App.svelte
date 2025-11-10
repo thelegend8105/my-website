@@ -7,9 +7,9 @@
       title: "Projects",
       data: [
         {
-          title: "Rohith.codes",
+          title: "Rohith.my",
           description: "My personal website",
-          link: "https://rohith.codes",
+          link: "https://rohith.my",
           year: 2024,
         },
         {

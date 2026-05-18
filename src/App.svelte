@@ -20,7 +20,7 @@
         },
         {
           title: "Skycast AI",
-          description: "An app to predict weather"
+          description: "An app to predict weather",
           link: "https://github.com/thelegend8105/ai-project",
           year: 2026,
         },

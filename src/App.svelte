@@ -18,6 +18,18 @@
           link: "https://hexage.wiki",
           year: 2024,
         },
+        {
+          title: "Skycast AI",
+          description: "An app to predict weather"
+          link: "https://github.com/thelegend8105/ai-project",
+          year: 2026,
+        },
+        {
+          title: "Self-healing AI-ops",
+          description: "An experimental self-healing application using AI",
+          link: "https://github.com/thelegend8105/healing-aiops",
+          year: 2026,
+        },
       ],
     },
     {

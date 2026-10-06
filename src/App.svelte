@@ -97,11 +97,9 @@
     flex-direction: column;
     justify-content: start;
     align-items: center;
-    height: 100vh;
     max-width: 768px;
     width: 100%;
     overflow-x: hidden;
-    overflow-y: auto;
     padding: 2rem;
     gap: 2rem;
   }

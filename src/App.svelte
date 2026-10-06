@@ -4,12 +4,24 @@
 
   const data = [
     {
+      title: "Experience",
+      data: [
+        {
+          title: "Intern at Herschel Infrared Ltd. UK",
+          description:
+            "Worked on integrating weather data into the system and did frontend work for the desktop application.",
+          link: "https://www.herschel-infrared.co.uk/",
+          year: 2026,
+        },
+      ],
+    },
+    {
       title: "Projects",
       data: [
         {
-          title: "Rohith.my",
+          title: "Rohith.codes",
           description: "My personal website",
-          link: "https://rohith.my",
+          link: "https://rohith.codes",
           year: 2024,
         },
         {
@@ -85,11 +97,9 @@
     flex-direction: column;
     justify-content: start;
     align-items: center;
-    height: 100vh;
     max-width: 768px;
     width: 100%;
     overflow-x: hidden;
-    overflow-y: auto;
     padding: 2rem;
     gap: 2rem;
   }
